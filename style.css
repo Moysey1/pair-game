@@ -25,6 +25,11 @@ body {
   outline: none;
 }
 
+.rules__text {
+  color: red;
+  padding: 0 15px;
+}
+
 .card-list {
   width: 100%;
   height: 100%;
